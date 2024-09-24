@@ -12,7 +12,7 @@ Server & Infra
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </span>
 <span>
-<img src="https://img.shields.io/badge/kotlin-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/kotlin-AF71A1?style=for-the-badge&logo=java&logoColor=white">
 </span>
 <span>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
