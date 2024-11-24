@@ -23,3 +23,6 @@ Server & Infra
 <span>
 <img src="https://img.shields.io/badge/junit-AF71A1?style=for-the-badge&logo=junit5&logoColor=white">
 </span>
+<span>
+<img src="https://img.shields.io/badge/linux-007396?style=for-the-badge&logo=linux&logoColor=white">
+</span>
